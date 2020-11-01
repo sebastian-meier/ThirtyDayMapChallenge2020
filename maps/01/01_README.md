@@ -19,11 +19,3 @@ Der Datenbestand wird unter der Lizenz CC-BY-3.0-Namensnennung veröffentlicht (
 ## Related Project
 https://www.giessdenkiez.de
 https://github.com/technologiestiftung/giessdenkiez-de
-
-
-0
-40
-80
-120
-160
-200
