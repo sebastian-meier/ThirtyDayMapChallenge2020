@@ -1,6 +1,8 @@
 # Day 01 - Polygons
 Trees of Berlin
 
+![01](01.png)
+
 ## Sources
 
 ### Trees
