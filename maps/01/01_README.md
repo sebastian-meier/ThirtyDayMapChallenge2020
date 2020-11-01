@@ -3,14 +3,14 @@ Trees of Berlin
 
 ## Sources
 
-### Bäume
+### Trees
 
 https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_wfs_baumbestand_an
 https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_wfs_baumbestand
 
 DL-DE-BY-2.0: Geoportal Berlin, Baumbestand Berlin - Straßenbäume
 
-### Umriss Berlin
+### Berlin border
 
 https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_lor_bez
 
