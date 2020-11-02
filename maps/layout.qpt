@@ -1,0 +1,242 @@
+<Layout units="mm" printResolution="300" name="30DaysMapChallenge" worldFileMap="{6be92e7b-e5f8-4b4e-94fe-67b40ae907a1}">
+ <Snapper snapToGuides="1" tolerance="5" snapToItems="1" snapToGrid="0"/>
+ <Grid resolution="10" offsetY="0" offsetUnits="mm" resUnits="mm" offsetX="0"/>
+ <PageCollection>
+  <symbol clip_to_extent="1" type="fill" alpha="1" name="" force_rhr="0">
+   <layer locked="0" class="SimpleFill" enabled="1" pass="0">
+    <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="joinstyle" v="miter"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="outline_color" v="35,35,35,255"/>
+    <prop k="outline_style" v="no"/>
+    <prop k="outline_width" v="0.26"/>
+    <prop k="outline_width_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option type="QString" value="" name="name"/>
+      <Option name="properties"/>
+      <Option type="QString" value="collection" name="type"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+  <LayoutItem blendMode="0" uuid="{8590edf2-7834-47ca-88d4-796173b161aa}" opacity="1" excludeFromExports="0" zValue="0" type="65638" visibility="1" background="true" id="" templateUuid="{8590edf2-7834-47ca-88d4-796173b161aa}" frameJoinStyle="miter" size="297,210,mm" positionLock="false" outlineWidthM="0.3,mm" position="0,0,mm" positionOnPage="0,0,mm" referencePoint="0" groupUuid="" itemRotation="0" frame="false">
+   <FrameColor green="0" blue="0" alpha="255" red="0"/>
+   <BackgroundColor green="255" blue="255" alpha="255" red="255"/>
+   <LayoutObject>
+    <dataDefinedProperties>
+     <Option type="Map">
+      <Option type="QString" value="" name="name"/>
+      <Option name="properties"/>
+      <Option type="QString" value="collection" name="type"/>
+     </Option>
+    </dataDefinedProperties>
+    <customproperties/>
+   </LayoutObject>
+   <symbol clip_to_extent="1" type="fill" alpha="1" name="" force_rhr="0">
+    <layer locked="0" class="SimpleFill" enabled="1" pass="0">
+     <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="color" v="255,255,255,255"/>
+     <prop k="joinstyle" v="miter"/>
+     <prop k="offset" v="0,0"/>
+     <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="offset_unit" v="MM"/>
+     <prop k="outline_color" v="35,35,35,255"/>
+     <prop k="outline_style" v="no"/>
+     <prop k="outline_width" v="0.26"/>
+     <prop k="outline_width_unit" v="MM"/>
+     <prop k="style" v="solid"/>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option type="QString" value="" name="name"/>
+       <Option name="properties"/>
+       <Option type="QString" value="collection" name="type"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </LayoutItem>
+  <GuideCollection visible="1">
+   <Guide units="mm" page="0" position="0" orientation="1"/>
+   <Guide units="mm" page="0" position="296.9484822202949" orientation="2"/>
+   <Guide units="mm" page="0" position="0" orientation="2"/>
+  </GuideCollection>
+ </PageCollection>
+ <LayoutItem blendMode="0" halign="2" uuid="{ecfea756-b3d8-4281-aca6-f94fcb9f17cd}" opacity="1" excludeFromExports="0" zValue="12" type="65641" visibility="1" background="false" id="" templateUuid="{ecfea756-b3d8-4281-aca6-f94fcb9f17cd}" labelText="&lt;strong>Sources:&lt;/strong> &lt;i>Border:&lt;/i> Amt für Statistik Berlin-Brandenburg | &lt;i>Trees:&lt;/i> Geoportal Berlin, Baumbestand Berlin - Straßen- und Anlagenbäume" frameJoinStyle="miter" size="228.38,6.89078,mm" positionLock="true" htmlState="1" outlineWidthM="0.3,mm" position="65.2629,201.648,mm" positionOnPage="65.2629,201.648,mm" referencePoint="0" marginX="0" valign="64" groupUuid="" itemRotation="0" marginY="0" frame="false">
+  <FrameColor green="0" blue="0" alpha="255" red="0"/>
+  <BackgroundColor green="255" blue="255" alpha="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" value="" name="name"/>
+     <Option name="properties"/>
+     <Option type="QString" value="collection" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="IBM Plex Sans Cond,12,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor green="0" blue="0" alpha="255" red="0"/>
+ </LayoutItem>
+ <LayoutItem blendMode="0" halign="8" uuid="{5452cb02-1c59-4be7-a259-c9bbc7dcd3d0}" opacity="1" excludeFromExports="0" zValue="9" type="65641" visibility="1" background="false" id="" templateUuid="{5452cb02-1c59-4be7-a259-c9bbc7dcd3d0}" labelText="#Berlin&#xa;#OpenData&#xa;#OpenSource" frameJoinStyle="miter" size="72.5991,22.4106,mm" positionLock="true" htmlState="0" outlineWidthM="0.3,mm" position="6.15246,164.749,mm" positionOnPage="6.15246,164.749,mm" referencePoint="0" marginX="0" valign="32" groupUuid="" itemRotation="0" marginY="0" frame="false">
+  <FrameColor green="0" blue="0" alpha="255" red="0"/>
+  <BackgroundColor green="255" blue="255" alpha="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" value="" name="name"/>
+     <Option name="properties"/>
+     <Option type="QString" value="collection" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="IBM Plex Sans Cond,16,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor green="0" blue="0" alpha="255" red="0"/>
+ </LayoutItem>
+ <LayoutItem position="258.525,4.42977,mm" groupUuid="" outlineWidthM="0.3,mm" frame="false" titleAlignment="1" excludeFromExports="0" wmsLegendHeight="25" type="65642" zValue="8" opacity="1" splitLayer="0" referencePoint="0" uuid="{e9878525-712d-43a6-bf87-fa67cdedd212}" positionOnPage="258.525,4.42977,mm" boxSpace="2" columnSpace="2" legendFilterByAtlas="0" frameJoinStyle="miter" rasterBorderWidth="0" positionLock="false" itemRotation="0" resizeToContents="1" lineSpacing="1" blendMode="0" id="" equalColumnWidth="0" visibility="1" symbolHeight="4" fontColor="#000000" background="true" wmsLegendWidth="50" columnCount="1" rasterBorder="1" symbolAlignment="1" size="33.9,58,mm" wrapChar="" symbolWidth="4" title="Legend" rasterBorderColor="0,0,0,255" templateUuid="{e9878525-712d-43a6-bf87-fa67cdedd212}" map_uuid="{6be92e7b-e5f8-4b4e-94fe-67b40ae907a1}">
+  <FrameColor green="0" blue="0" alpha="255" red="0"/>
+  <BackgroundColor green="255" blue="255" alpha="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" value="" name="name"/>
+     <Option name="properties"/>
+     <Option type="QString" value="collection" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <styles>
+   <style alignment="1" name="title" marginBottom="3.5">
+    <styleFont description="IBM Plex Sans Cond SmBld,16,-1,5,63,0,0,0,0,0,Regular" style="Regular"/>
+   </style>
+   <style alignment="1" name="group" marginTop="3">
+    <styleFont description="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" style=""/>
+   </style>
+   <style alignment="1" name="subgroup" marginTop="3">
+    <styleFont description="IBM Plex Sans Cond SmBld,12,-1,5,63,0,0,0,0,0,Regular" style="Regular"/>
+   </style>
+   <style alignment="1" name="symbol" marginTop="2.5">
+    <styleFont description="MS Shell Dlg 2,8,-1,5,50,0,0,0,0,0" style=""/>
+   </style>
+   <style alignment="1" marginLeft="2" name="symbolLabel" marginTop="2">
+    <styleFont description="IBM Plex Sans Cond,12,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+   </style>
+  </styles>
+  <layer-tree-group>
+   <customproperties/>
+   <layer-tree-layer expanded="1" patch_size="-1,-1" legend_split_behavior="0" name="Tree ages (years)" checked="Qt::Checked" providerKey="memory" legend_exp="" id="Tree_ages__years__93fb3302_2aed_40a9_b010_e2cb0b51459c" source="memory?geometry=Point&amp;crs=EPSG:4326&amp;uid={9c2984b9-5c06-45f8-bddf-62be573915be}">
+    <customproperties>
+     <property key="cached_name" value="Tree ages (years)"/>
+     <property key="legend/label-5" value="200 and older"/>
+    </customproperties>
+   </layer-tree-layer>
+   <custom-order enabled="0"/>
+  </layer-tree-group>
+ </LayoutItem>
+ <LayoutItem blendMode="0" halign="1" uuid="{69350056-c02a-4921-b60f-643c4edbe931}" opacity="1" excludeFromExports="0" zValue="7" type="65641" visibility="1" background="false" id="" templateUuid="{69350056-c02a-4921-b60f-643c4edbe931}" labelText="Trees in Berlin, which are managed&#xa;by the city's administration. Forests&#xa;and some parks are not included." frameJoinStyle="miter" size="74.814,19.934,mm" positionLock="true" htmlState="0" outlineWidthM="0.3,mm" position="6.15246,26.5786,mm" positionOnPage="6.15246,26.5786,mm" referencePoint="0" marginX="0" valign="32" groupUuid="" itemRotation="0" marginY="0" frame="false">
+  <FrameColor green="0" blue="0" alpha="255" red="0"/>
+  <BackgroundColor green="255" blue="255" alpha="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" value="" name="name"/>
+     <Option name="properties"/>
+     <Option type="QString" value="collection" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="IBM Plex Sans Cond,12,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor green="0" blue="0" alpha="255" red="0"/>
+ </LayoutItem>
+ <LayoutItem blendMode="0" halign="1" uuid="{93966326-f887-442a-b428-d0f2d515a25e}" opacity="1" excludeFromExports="0" zValue="6" type="65641" visibility="1" background="false" id="" templateUuid="{93966326-f887-442a-b428-d0f2d515a25e}" labelText="Day 01 - Points" frameJoinStyle="miter" size="95.7324,14.2737,mm" positionLock="true" htmlState="0" outlineWidthM="0.3,mm" position="6.15246,10.8595,mm" positionOnPage="6.15246,10.8595,mm" referencePoint="0" marginX="0" valign="32" groupUuid="" itemRotation="0" marginY="0" frame="false">
+  <FrameColor green="0" blue="0" alpha="255" red="0"/>
+  <BackgroundColor green="255" blue="255" alpha="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" value="" name="name"/>
+     <Option name="properties"/>
+     <Option type="QString" value="collection" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="IBM Plex Sans Cond SmBld,32,-1,5,63,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor green="0" blue="0" alpha="255" red="0"/>
+ </LayoutItem>
+ <LayoutItem blendMode="0" halign="8" uuid="{5c389ed8-a825-44a9-b249-cedd6b8f6d84}" opacity="1" excludeFromExports="0" zValue="3" type="65641" visibility="1" background="false" id="" templateUuid="{5c389ed8-a825-44a9-b249-cedd6b8f6d84}" labelText="#30DayMapChallenge" frameJoinStyle="miter" size="72.5991,8.85955,mm" positionLock="true" htmlState="0" outlineWidthM="0.3,mm" position="6.15246,4.42977,mm" positionOnPage="6.15246,4.42977,mm" referencePoint="0" marginX="0" valign="32" groupUuid="" itemRotation="0" marginY="0" frame="false">
+  <FrameColor green="0" blue="0" alpha="255" red="0"/>
+  <BackgroundColor green="255" blue="255" alpha="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" value="" name="name"/>
+     <Option name="properties"/>
+     <Option type="QString" value="collection" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="IBM Plex Sans Cond,16,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor green="0" blue="0" alpha="255" red="0"/>
+ </LayoutItem>
+ <LayoutItem blendMode="0" resizeMode="0" svgBorderColor="0,0,0,255" uuid="{c0649c4b-9c7a-4604-9801-e7cad5d90681}" opacity="1" excludeFromExports="0" zValue="2" type="65640" visibility="1" pictureWidth="48.9736" svgBorderWidth="0.2" background="false" id="" mode="1" mapUuid="" northOffset="0" templateUuid="{c0649c4b-9c7a-4604-9801-e7cad5d90681}" pictureHeight="11.3183" frameJoinStyle="miter" northMode="0" size="48.9736,17.7191,mm" positionLock="true" outlineWidthM="0.3,mm" position="6.15246,187.82,mm" positionOnPage="6.15246,187.82,mm" referencePoint="0" pictureRotation="0" svgFillColor="255,255,255,255" groupUuid="" itemRotation="0" frame="false" file="../../../../../../Desktop/FHP-Berufung/Portfolio-Material/logos/vislab-logo.png" anchorPoint="6">
+  <FrameColor green="0" blue="0" alpha="255" red="0"/>
+  <BackgroundColor green="255" blue="255" alpha="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" value="" name="name"/>
+     <Option name="properties"/>
+     <Option type="QString" value="collection" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+ </LayoutItem>
+ <LayoutItem followPreset="false" blendMode="0" labelMargin="0,mm" uuid="{6be92e7b-e5f8-4b4e-94fe-67b40ae907a1}" opacity="1" excludeFromExports="0" mapFlags="0" zValue="1" followPresetName="" type="65639" visibility="1" background="true" id="" templateUuid="{6be92e7b-e5f8-4b4e-94fe-67b40ae907a1}" frameJoinStyle="miter" keepLayerSet="false" size="297,210,mm" positionLock="true" outlineWidthM="0.3,mm" position="17,-3,mm" positionOnPage="17,-3,mm" referencePoint="0" mapRotation="0" drawCanvasItems="true" groupUuid="" itemRotation="0" isTemporal="0" frame="false">
+  <FrameColor green="0" blue="0" alpha="255" red="0"/>
+  <BackgroundColor green="255" blue="255" alpha="255" red="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option type="QString" value="" name="name"/>
+     <Option name="properties"/>
+     <Option type="QString" value="collection" name="type"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <Extent ymax="5839074.38129537738859653" xmin="363639.12424391572130844" ymin="5797705.29312481172382832" xmax="422146.83465657272608951"/>
+  <LayerSet/>
+  <AtlasMap scalingMode="2" margin="0.10000000000000001" atlasDriven="0"/>
+  <labelBlockingItems/>
+ </LayoutItem>
+ <customproperties>
+  <property key="atlasRasterFormat" value="png"/>
+  <property key="forceVector" value="1"/>
+  <property key="imageAntialias" value="true"/>
+  <property key="imageCropMarginBottom" value="0"/>
+  <property key="imageCropMarginLeft" value="0"/>
+  <property key="imageCropMarginRight" value="0"/>
+  <property key="imageCropMarginTop" value="0"/>
+  <property key="imageCropToContents" value="false"/>
+  <property key="pdfAppendGeoreference" value="1"/>
+  <property key="pdfCreateGeoPdf" value="0"/>
+  <property key="pdfDisableRasterTiles" value="0"/>
+  <property key="pdfExportThemes" value=""/>
+  <property key="pdfIncludeMetadata" value="1"/>
+  <property key="pdfLayerOrder" value="fis_s_lor_bez_976d3aae_f2a7_410f_b8d1_3f06144c217a~~~fis_s_wfs_baumbestand_an_7ba417b9_4130_4888_8e37_39a5c03137fc~~~Tree_ages__years__93fb3302_2aed_40a9_b010_e2cb0b51459c~~~fis_s_wfs_baumbestand_f92e384d_1a3a_480d_8692_566ca27c4db9~~~Dissolved_7bea1432_57d6_4791_ac3a_03c2370c9297"/>
+  <property key="pdfOgcBestPracticeFormat" value="0"/>
+  <property key="pdfSimplify" value="1"/>
+  <property key="pdfTextFormat" value="0"/>
+ </customproperties>
+ <Atlas pageNameExpression="" hideCoverage="0" filterFeatures="0" enabled="0" sortFeatures="0" coverageLayer="" filenamePattern="'output_'||@atlas_featurenumber"/>
+</Layout>
