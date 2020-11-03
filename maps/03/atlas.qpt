@@ -1,0 +1,93 @@
+<Layout units="mm" printResolution="300" name="polygon_small_multiples" worldFileMap="{b391243f-0f97-4eb4-8e49-e24d10b3b521}">
+ <Snapper tolerance="5" snapToGrid="0" snapToGuides="1" snapToItems="1"/>
+ <Grid offsetUnits="mm" offsetY="0" resolution="10" offsetX="0" resUnits="mm"/>
+ <PageCollection>
+  <symbol name="" type="fill" alpha="1" force_rhr="0" clip_to_extent="1">
+   <layer enabled="1" locked="0" class="SimpleFill" pass="0">
+    <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+    <prop v="255,255,255,255" k="color"/>
+    <prop v="miter" k="joinstyle"/>
+    <prop v="0,0" k="offset"/>
+    <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+    <prop v="MM" k="offset_unit"/>
+    <prop v="35,35,35,255" k="outline_color"/>
+    <prop v="no" k="outline_style"/>
+    <prop v="0.26" k="outline_width"/>
+    <prop v="MM" k="outline_width_unit"/>
+    <prop v="solid" k="style"/>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option name="name" type="QString" value=""/>
+      <Option name="properties"/>
+      <Option name="type" type="QString" value="collection"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+  <LayoutItem excludeFromExports="0" groupUuid="" templateUuid="{a84b12f8-a435-41e9-acff-f39f1c7203ff}" position="0,0,mm" positionOnPage="0,0,mm" background="true" visibility="1" id="" opacity="1" type="65638" uuid="{a84b12f8-a435-41e9-acff-f39f1c7203ff}" outlineWidthM="0.3,mm" blendMode="0" zValue="0" size="297,210,mm" frameJoinStyle="miter" frame="false" itemRotation="0" positionLock="false" referencePoint="0">
+   <FrameColor green="0" red="0" alpha="255" blue="0"/>
+   <BackgroundColor green="255" red="255" alpha="255" blue="255"/>
+   <LayoutObject>
+    <dataDefinedProperties>
+     <Option type="Map">
+      <Option name="name" type="QString" value=""/>
+      <Option name="properties"/>
+      <Option name="type" type="QString" value="collection"/>
+     </Option>
+    </dataDefinedProperties>
+    <customproperties/>
+   </LayoutObject>
+   <symbol name="" type="fill" alpha="1" force_rhr="0" clip_to_extent="1">
+    <layer enabled="1" locked="0" class="SimpleFill" pass="0">
+     <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+     <prop v="255,255,255,255" k="color"/>
+     <prop v="miter" k="joinstyle"/>
+     <prop v="0,0" k="offset"/>
+     <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+     <prop v="MM" k="offset_unit"/>
+     <prop v="35,35,35,255" k="outline_color"/>
+     <prop v="no" k="outline_style"/>
+     <prop v="0.26" k="outline_width"/>
+     <prop v="MM" k="outline_width_unit"/>
+     <prop v="solid" k="style"/>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" type="QString" value=""/>
+       <Option name="properties"/>
+       <Option name="type" type="QString" value="collection"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </LayoutItem>
+  <GuideCollection visible="1"/>
+ </PageCollection>
+ <LayoutItem excludeFromExports="0" groupUuid="" templateUuid="{b391243f-0f97-4eb4-8e49-e24d10b3b521}" position="0,0,mm" positionOnPage="0,0,mm" labelMargin="0,mm" background="true" visibility="1" id="" opacity="1" type="65639" uuid="{b391243f-0f97-4eb4-8e49-e24d10b3b521}" outlineWidthM="0.3,mm" keepLayerSet="false" blendMode="0" isTemporal="0" zValue="1" mapRotation="0" size="297,210,mm" frameJoinStyle="miter" frame="false" followPreset="false" mapFlags="0" drawCanvasItems="true" followPresetName="" itemRotation="0" positionLock="false" referencePoint="0">
+  <FrameColor green="0" red="0" alpha="255" blue="0"/>
+  <BackgroundColor green="255" red="255" alpha="255" blue="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" type="QString" value=""/>
+     <Option name="properties"/>
+     <Option name="type" type="QString" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <Extent xmin="1488760.73458986612968147" ymin="6888173.77265345212072134" ymax="6888803.96669409517198801" xmax="1489652.0090187753085047"/>
+  <LayerSet/>
+  <AtlasMap margin="0.10000000000000001" atlasDriven="1" scalingMode="0"/>
+  <labelBlockingItems/>
+ </LayoutItem>
+ <customproperties>
+  <property key="atlasRasterFormat" value="png"/>
+  <property key="imageAntialias" value="true"/>
+  <property key="imageCropMarginBottom" value="0"/>
+  <property key="imageCropMarginLeft" value="0"/>
+  <property key="imageCropMarginRight" value="0"/>
+  <property key="imageCropMarginTop" value="0"/>
+  <property key="imageCropToContents" value="false"/>
+ </customproperties>
+ <Atlas coverageLayerSource="C:/Users/conta/Documents/GitHub/VISLAB/ThirtyDayMapChallenge2020/maps/03/soccer.geojson" coverageLayer="soccer_1cd7d266_8666_4df2_bea1_33f1de98bdb4" sortFeatures="0" hideCoverage="0" filenamePattern="'output_'||@atlas_featurenumber" enabled="1" pageNameExpression="" filterFeatures="0" coverageLayerName="soccer" coverageLayerProvider="ogr"/>
+</Layout>

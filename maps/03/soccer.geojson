@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-11-02T19:49:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/332385838",
+        "leisure": "pitch",
+        "sport": "soccer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.3772824,
+              52.4865129
+            ],
+            [
+              13.3772586,
+              52.4855704
+            ],
+            [
+              13.3782568,
+              52.4855616
+            ],
+            [
+              13.3782783,
+              52.4865051
+            ],
+            [
+              13.3772824,
+              52.4865129
+            ]
+          ]
+        ]
+      },
+      "id": "way/332385838"
+    }
+  ]
+}
