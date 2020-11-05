@@ -43,7 +43,7 @@ const results = {
   }
   
   results.features.sort((a, b) => {
-    return a.properties.contour - b.properties.contour
+    return b.properties.contour - a.properties.contour
   })
 
   fs.writeFileSync("results.json", JSON.stringify(results), "utf8")
