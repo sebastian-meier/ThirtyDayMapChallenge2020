@@ -21,6 +21,8 @@ const results = {
       const body = {
         "locations":[{"lat":coord[1],"lon":coord[0]}],
         "costing":"auto",
+        "polygons":true,
+        "denoise":0,
         "contours":[
           {"time":10 + j * 40,"color":"ff0000"},
           {"time":20 + j * 40,"color":"ff0000"},
