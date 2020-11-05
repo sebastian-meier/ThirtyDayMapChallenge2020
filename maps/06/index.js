@@ -41,5 +41,10 @@ const results = {
       results.features = results.features.concat(json.features);
     }
   }
+  
+  results.features.sort((a, b) => {
+    return a.properties.contour - b.properties.contour
+  })
+
   fs.writeFileSync("results.json", JSON.stringify(results), "utf8")
 })();
