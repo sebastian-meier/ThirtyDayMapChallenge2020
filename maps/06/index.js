@@ -13,7 +13,7 @@ const results = {
 (async () => {
 
   for (let i = 0; i < stations.features.length; i += 1) {
-    for (let j = 0; j < 2; j += 1) {
+    for (let j = 0; j < 5; j += 1) {
 
       const feature = stations.features[i];
       const coord = feature.geometry.coordinates;
@@ -24,10 +24,10 @@ const results = {
         "polygons":true,
         "denoise":0,
         "contours":[
-          {"time":2 + j * 8,"color":"ff0000"},
-          {"time":4 + j * 8,"color":"ff0000"},
-          {"time":6 + j * 8,"color":"ff0000"},
-          {"time":8 + j * 8,"color":"ff0000"}
+          {"time":1 + j * 4,"color":"ff0000"},
+          {"time":2 + j * 4,"color":"ff0000"},
+          {"time":3 + j * 4,"color":"ff0000"},
+          {"time":4 + j * 4,"color":"ff0000"}
         ]
       };
     
