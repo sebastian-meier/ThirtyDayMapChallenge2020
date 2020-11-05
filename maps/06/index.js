@@ -13,7 +13,7 @@ const results = {
 (async () => {
 
   for (let i = 0; i < stations.features.length; i += 1) {
-    for (let j = 0; j < 2; j += 2) {
+    for (let j = 0; j < 2; j += 1) {
 
       const feature = stations.features[i];
       const coord = feature.geometry.coordinates;
