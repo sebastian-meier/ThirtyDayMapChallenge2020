@@ -24,10 +24,10 @@ const results = {
         "polygons":true,
         "denoise":0,
         "contours":[
-          {"time":10 + j * 40,"color":"ff0000"},
-          {"time":20 + j * 40,"color":"ff0000"},
-          {"time":30 + j * 40,"color":"ff0000"},
-          {"time":40 + j * 40,"color":"ff0000"}
+          {"time":2 + j * 8,"color":"ff0000"},
+          {"time":4 + j * 8,"color":"ff0000"},
+          {"time":6 + j * 8,"color":"ff0000"},
+          {"time":8 + j * 8,"color":"ff0000"}
         ]
       };
     
