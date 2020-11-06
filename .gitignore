@@ -3,3 +3,5 @@
 */*/*.pdf
 node_modules
 package-lock.json
+maps/06/isochrones_clipped.gpkg
+maps/06/isochrones_fixed.gpkg
