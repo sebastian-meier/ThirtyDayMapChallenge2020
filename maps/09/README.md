@@ -7,7 +7,7 @@ For Monochrome day, a cloudy black and white satelittle photo from Berlin. Using
 
 ### Satellite Imagery
 
-https://blogs.fu-berlin.de/reseda/esa-scihub/
+https://scihub.copernicus.eu/dhus/#/home
 Copernicus Sentinel data, 2020
 
 There are a lot of different ways to get your hands on the open Sentinel data (see below).
