@@ -8,7 +8,6 @@ Photovoltaik potentials in Berlin
 ### Solar
 
 https://fbinter.stadt-berlin.de/fb/atom/solar/ST_PV_Potenzial_2013.zip
-https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_feuerwehr
 
 Geoportal Berlin / Solaranlagen - PV- und ST-Potenzial der Dachflächen (Umweltatlas)
 
