@@ -1,11 +1,11 @@
-# Day 14 - Raster
+# Day 14 - Climate Change
 Renewable energy in Berlin.
 
 ![14](14.png)
 
 ## Sources
 
-### Infrared Imagery
+### Energy Sources
 
 https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s08_07_1anlagen11bimschv
 https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_biom_anlbis30kw
