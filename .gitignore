@@ -11,3 +11,4 @@ maps/*/temp
 maps/*/gtfs
 maps/17/clipped.tif
 maps/20/20.gpkg
+maps/22/results.json
