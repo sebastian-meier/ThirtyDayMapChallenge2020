@@ -1,0 +1,103 @@
+{   
+    "wifi": {
+        "filename": "wifi.csv",
+	    "latlon": {
+		    "Campus-EB": [52.512388, 13.32360925],
+	     	"Campus-TEL": [52.51298775, 13.32029525],
+		    "Campus-AF-2": [52.51342140, 13.3232434],
+		    "Campus-BHN": [52.51191549, 13.322822]
+	    }
+	},
+    "pedestrian": {
+        "filename": "pedestrian_counts_tel_a.csv",
+	    "latlon": {
+	     	"CounterHaupteingang-TEL4-PeopleCounter": [52.51298775, 13.32029525],
+		    "CounterVorplatzGeb-AF2-PeopleCounter": [52.51342140, 13.3232434]
+	    }
+	},
+    "traffic":{
+        "filename": "traffic_data_erp.csv",
+        "latlon": {
+            "AmpelHardenbergstrvon-BHN2-Outbound": [52.5119,13.32191],
+            "VorplatzHardenbergstrvon-BHN3-Inbound": [52.51195,13.32247],
+            "Otto-Suhr-Allee-TEL1-Inbound": [52.51309,13.32096],
+            "Bismarckstrasse-TEL3-Outbound": [52.51261,13.32056],
+            "Ernst-Reuter-PlatzGeb-A1-Outbound": [52.513254,13.321363],
+            "Bismarckstrasse-TEL3-Inbound": [52.512411,13.320614],
+            "VorplatzGeb-AF1-Rotary": [52.51296,13.32275],
+            "Strdes17Junivon-EB1-Outbound": [52.512495,13.32307],
+            "Marchstrasse-A2-Inbound": [52.5134,13.32229],
+            "Ernst-Reuter-Platz-TEL2-Rotary": [52.51285,13.3209],
+            "Strdes17Junivon-EB1-Inbound": [52.512802,13.323075],
+            "MarchvonGeb-A2-Outbound": [52.513341,13.32259],
+            "Ernst-Reuter-Platzvon-EB2-Rotary": [52.51228,13.32278]
+        }, 
+        "angles": {
+            "AmpelHardenbergstrvon-BHN2-Outbound": 225, 
+            "VorplatzHardenbergstrvon-BHN3-Inbound": 100, 
+            "Otto-Suhr-Allee-TEL1-Inbound": 270, 
+            "Bismarckstrasse-TEL3-Outbound": 0, 
+            "Ernst-Reuter-PlatzGeb-A1-Outbound": 20, 
+            "Bismarckstrasse-TEL3-Inbound": 190, 
+            "VorplatzGeb-AF1-Rotary": 45, 
+            "Strdes17Junivon-EB1-Outbound": 140, 
+            "Marchstrasse-A2-Inbound": 300, 
+            "Ernst-Reuter-Platz-TEL2-Rotary": 300, 
+            "Strdes17Junivon-EB1-Inbound": 35, 
+            "MarchvonGeb-A2-Outbound": 94, 
+            "Ernst-Reuter-Platzvon-EB2-Rotary": 120
+        },
+        "labels": {
+            "kiwicamera_!id:d4e9429c-7611-479f-9d64-468b44c9207d!_Source 1_Destination 1": "Ernst-Reuter-PlatzGeb-A1-Outbound", 
+            "kiwicamera_!id:caf03b52-7f43-4ee2-9f7d-2a4ba67fcea8!_Source 0_Destination 0": "VorplatzHardenbergstrvon-BHN3-Inbound", 
+            "kiwicamera_!id:bfe5afb6-0434-4b42-8e5c-c07fc34166a2!_Source 0_Destination 0": "Bismarckstrasse-TEL3-Inbound", 
+            "kiwicamera_!id:05b1e241-c75b-4536-b0d1-4d54883052ab!_Source 0_Destination 0": "Marchstrasse-A2-Inbound", 
+            "kiwicamera_!id:4d32925f-4800-4ce1-aec2-a998900ef4ee!_Source 0_Destination 0": "Otto-Suhr-Allee-TEL1-Inbound", 
+            "kiwicamera_!id:48f26d33-5c21-410d-9899-3e41031eaac4!_Source 0_Destination 0": "Ernst-Reuter-Platz-TEL2-Rotary", 
+            "kiwicamera_!id:3425971e-2284-488d-a9d2-b9bb4298b3f7!_Source 1_Destination 1": "Strdes17Junivon-EB1-Outbound", 
+            "kiwicamera_!id:fc4613e3-df47-43d4-a7eb-33dbb317df96!_Source 1_Destination 1": "AmpelHardenbergstrvon-BHN2-Outbound", 
+            "kiwicamera_!id:3afc582e-e6bc-46cb-8d97-c778794acb80!_Source 0_Destination 0": "Ernst-Reuter-Platzvon-EB2-Rotary", 
+            "kiwicamera_!id:05b1e241-c75b-4536-b0d1-4d54883052ab!_Source 1_Destination 1": "MarchvonGeb-A2-Outbound", 
+            "kiwicamera_!id:3425971e-2284-488d-a9d2-b9bb4298b3f7!_Source 0_Destination 0": "Strdes17Junivon-EB1-Inbound", 
+            "kiwicamera_!id:bfe5afb6-0434-4b42-8e5c-c07fc34166a2!_Source 1_Destination 1": "Bismarckstrasse-TEL3-Outbound", 
+            "kiwicamera_!id:cf29d237-b8ce-49ce-ad1c-4727ec810e75!_Source 0_Destination 0": "VorplatzGeb-AF1-Rotary"
+        }
+    },
+    "parking": {
+        "filename": "parking.csv",
+        "latlon": {
+            "LZQ2AMNPAAAAU7QDBHVMEVVZ": [52.513006083339945, 13.319739326834675],
+            "LZQ2AMXWAAAAU7QDBHFOWJM5": [52.513003642882850, 13.319705889380275],
+            "LZQ2AN4NAAAAU7QDBHQGNAFN": [52.512993877721150, 13.319572093890475],
+            "LZQ2ANAVAAAAU7QDBFBNCMYI": [52.513001201592450, 13.319672440507775],
+            "LZQ2ANJGAAAAU7QDBFCQE74V": [52.512998760302050, 13.319638991635376],
+            "LZQ2ANSFAAAAU7QDBHGHYITI": [52.512996319011550, 13.319605542762876],
+            "LZQ2AO5NAAAAU7QDBHHNGG7J": [52.512984822054440, 13.319415931298977],
+            "LZQ2AOEPAAAAU7QDBHZM5ZYB": [52.512991436430750, 13.319538645017975],
+            "LZQ2AOMUAAAAU7QDBHBEY6HX": [52.512989015457650, 13.319484404446975],
+            "LZQ2AOVHAAAAU7QDBF2FWKNL": [52.512987919199040, 13.319450681702376],
+            "LZQ2AP7HAAAAU7QDBENVJF67": [52.513108460701620, 13.319480967935249],
+            "LZQ2APGFAAAAU7QDBHUW4O3U": [52.512983724909844, 13.319382180895573],
+            "LZQ2APPBAAAAU7QDBG66NGI4": [52.513116154180800, 13.319562301039700],
+            "LZQ2APWZAAAAU7QDBE74KH4Y": [52.513112777376950, 13.319520891523851],
+            "LZQ2AQHIAAAAU7QDBFQAPZRO": [52.513106088956825, 13.319445517778850],
+            "LZQ2AQPOAAAAU7QDBEOQ7GRC": [52.513103717212125, 13.319410067622350],
+            "LZQ2AQYZAAAAU7QDBHZLKV4Z": [52.513101345467320, 13.319374617465950],
+            "LZQ2ARBLAAAAU7QDBHHHZXBS": [52.513098973722520, 13.319339167309451],
+            "LZQ2ARKXAAAAU7QDBH3D725J": [52.513096587948326, 13.319303507456251],
+            "LZQ2ARSCAAAAU7QDBFQXMEGM": [52.513093790547800, 13.319267007522700],
+            "LZQ2ARZTAAAAU7QDBEBS7S4V": [52.512923324680530, 13.319222703830226],
+            "LZQ2ASBXAAAAU7QDBFRTOMVS": [52.512945767186430, 13.319218100350325],
+            "LZQ2ASJQAAAAU7QDBEKJL44V": [52.512968209692325, 13.319213496870525],
+            "LZQ2ASRAAAAAU7QDBEJAIROP": [52.513035485711630, 13.319199696994325],
+            "LZQ2ASZFAAAAU7QDBHUOFVZC": [52.513013094704030, 13.319204289910726],
+            "LZQ2AT6IAAAAU7QDBEEKOSYD": [52.512923625903650, 13.319481390348749],
+            "LZQ2ATC2AAAAU7QDBHTAVF44": [52.512990652198226, 13.319208893390623],
+            "LZQ2ATLNAAAAU7QDBF42DV5W": [52.512912330178850, 13.319322817662450],
+            "LZQ2ATTXAAAAU7QDBHGMDAHM": [52.512916978041254, 13.319402104005650],
+            "LZQ2AUHQAAAAU7QDBF3YPSBL": [52.512928251061550, 13.319560289382949],
+            "LZQ2AUPHAAAAU7QDBHHVJ5VP": [52.512933201169545, 13.319641803777650],
+            "LZQ2AUWRAAAAU7QDBE763ZQZ": [52.512939027488756, 13.319722418314950]
+        }
+    }
+}
