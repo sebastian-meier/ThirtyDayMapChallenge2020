@@ -1,4 +1,4 @@
-# Day 28 - Big or small data
+# Day 28 - Non-Geographic Map
 A square map of districts, with population-age distributions in each square.
 
 ![28](28.png)
