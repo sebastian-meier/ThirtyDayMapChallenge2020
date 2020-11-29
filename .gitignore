@@ -13,3 +13,7 @@ maps/17/clipped.tif
 maps/20/20.gpkg
 maps/22/results.json
 maps/27/sample
+maps/29/dem_geotiff/DEM_geotiff/alwdgg.aux
+maps/29/dem_geotiff/DEM_geotiff/alwdgg.tif
+maps/29/dem_geotiff/DEM_geotiff/alwdgg.tif.rrd
+maps/29/dem_geotiff/DEM_geotiff/alwdgg.tif.xml
